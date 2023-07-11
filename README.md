@@ -1,2 +1,2 @@
 # Terraform-module-publish
-To publish a module in Terraform
+Publishing a Custom Storage module in Terraform
